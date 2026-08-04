@@ -9,19 +9,19 @@ This repository showcases the projects I've completed throughout my cybersecurit
 
 Pursuing a Bachelor's degree in Cybersecurity at Southern New Hampshire University. Interested in entry-level IT support and cybersecurity opportunities while working toward a career as a SOC Analyst.
 
-## Cybersecurity Skills
+## Cybersecurity Projects
 
 | Skill                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Detect Malware and Unauthorized Devices    | <a href="https://github.com/zdurenleau1711/Detecting-Malware-and-Unauthorized-Devices/blob/main/README.md"> Malware and Unauthorized Devices Lab</a>|
-## Networking Skills
+## Networking Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Troubleshoot Suspected DNS Issue         | <a href="https://github.com/zdurenleau1711/Troubleshoot-Suspected-DNS-Issue">DNS Lab</a>|
 
 
-## General IT Skills
+## General IT Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,5 +40,4 @@ Pursuing a Bachelor's degree in Cybersecurity at Southern New Hampshire Universi
 
 </div>
 
-## Projects
 
