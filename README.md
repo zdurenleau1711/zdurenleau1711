@@ -13,7 +13,7 @@ Pursuing a Bachelor's degree in Cybersecurity at Southern New Hampshire Universi
 
 | Skill                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
+| Detect Malware and Unauthorized Devices    | <a href="https://github.com/zdurenleau1711/Detecting-Malware-and-Unauthorized-Devices/blob/main/README.md"> Malware and Unauthorized Devices Lab</a>|
 ## Networking Skills
 
 | Skill                                         | Associated Project         |
